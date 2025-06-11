@@ -48,10 +48,6 @@ Time-based analysis reveals significant variation in monthly and weekday sales p
 - Saturday's sales were 5.5% below the weekly average, suggesting an opportunity to recapture lost weekend revenue through targeted campaigns.
 - Weekday volumes remained stable, with Monday–Thursday fluctuating within a 2.1% range, supporting consistent weekday operational strategy.
 
-<p align="center">
-  <img src="https://github.com/DanielaRubianoB/bean-bloom-sales-dashboard/blob/main/images/SalesTrends.png" alt="Preview" />
-</p>
-
 ### Store-Level Performance
 Location-based analysis reveals differences in revenue efficiency relative to footfall.
 - Hell’s Kitchen achieved $236,511.17 in revenue, which is 1.8% higher than Astoria despite only a 0.2% higher footfall, reflecting stronger average transaction value (ATV).
@@ -59,15 +55,15 @@ Location-based analysis reveals differences in revenue efficiency relative to fo
 - These insights suggest potential for applying Hell’s Kitchen's product mix or pricing strategy to underperforming locations.
 
 
-<p align="center">
-  <img src="https://github.com/DanielaRubianoB/bean-bloom-sales-dashboard/blob/main/images/Customers.png" alt="Preview" />
-</p>
-
 ### Top Product Insights
 Product-level revenue contributions identify key sales drivers and growth areas.
 - Barista Espresso led with $91,406.20, contributing 24% of total product-level sales, outperforming the next best product by 18.6%.
 - Brewed Chai Tea and Hot Chocolate followed, with combined revenue of $149,498, together contributing 39% of total sales among top 5 items.
 - Despite fewer units sold, Brewed Black Tea's revenue per unit was 15% higher than Brewed Chai Tea, highlighting pricing leverage and potential for focused promotion.
+
+<p align="center">
+  <img src="https://github.com/DanielaRubianoB/Velour-Coffee-Sales-dashboard/blob/main/images/top5_products.png" alt="Preview" />
+</p>
 
 ### Order Size Preferences
 Sizing behavior analysis highlights preferences and areas for pricing optimization.
@@ -76,7 +72,7 @@ Sizing behavior analysis highlights preferences and areas for pricing optimizati
 - 31% of orders were labeled 'Not Defined', creating a visibility gap in product mix analysis—addressing this could improve forecast accuracy and demand planning.
 
 <p align="center">
-  <img src="https://github.com/DanielaRubianoB/bean-bloom-sales-dashboard/blob/main/images/Country.png" alt="Preview" />
+  <img src="https://github.com/DanielaRubianoB/Velour-Coffee-Sales-dashboard/blob/main/images/size_distribution.png" alt="Preview" />
 </p>
 
 ## Recommendations & Opportunities
